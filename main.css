@@ -1,0 +1,24 @@
+.profile{
+    margin:auto;
+    background-color: rgb(30, 32, 36);
+    color: white;
+    padding: 20px;
+}
+
+.profileImage{
+    border-radius: 15px;
+    width: 180px;
+    height: 230px;
+}
+
+.buttonColor{
+    background-color: rgb(30, 32, 36);
+}
+
+.buttonColorActive{
+    background-color: rgb(7, 119, 245);
+}
+
+.btn-primary{
+    border-color: rgb(0, 0, 0);
+}
